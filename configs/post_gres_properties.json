@@ -1,0 +1,13 @@
+{
+    "HOSTNAME" : "34.221.209.105",
+    "PORT"     : "7972",
+    "USERNAME" : "wellsfargo_psql_dbuser",
+    "PASSWORD" : "eFtHu964$",
+    "DATABASE" : "wellsfargo",
+    "SCHEMA" : "ssot",
+    "LOG_FILE_PATH" : "postgres.log",
+    "DEBUG" : "True",
+    "CLIENT_ENCODING":"utf8",
+    "SELECT_COLUMN_QUERY" : "SELECT * FROM information_schema.columns WHERE table_schema = "
+
+}
